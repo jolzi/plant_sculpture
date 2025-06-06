@@ -1,0 +1,11 @@
+opencv-python>=4.8.0
+mediapipe>=0.10.0
+python-osc>=1.8.1
+paho-mqtt>=2.0.0
+numpy>=1.24.0
+pyyaml>=6.0
+python-systemd>=0.0.14
+adafruit-circuitpython-vl53l0x>=3.0.0
+asyncio>=3.4.3
+dataclasses>=0.6
+loguru>=0.7.0
